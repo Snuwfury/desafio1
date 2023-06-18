@@ -1,0 +1,5 @@
+
+Hola! aqui voy a dejar un historial de mis commits hasta el momento.
+
+* 53793ef (HEAD -> master) añadiendo log.txt
+* 5631bd6 añadiendo readme.md
